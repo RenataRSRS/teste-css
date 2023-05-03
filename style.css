@@ -1,0 +1,37 @@
+body {
+  background-color: #1e1e1e;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.título {
+  color: #ccc;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.div {
+  background-color: #fff;
+  font-size: 20px;
+  width: 50%;
+  border: solid 2px;
+  align-items: center;
+  justify-content: center;
+}
+.flex {
+  display: flex;
+}
+.div2 {
+  background-color: #fff;
+  font-size: 20px;
+  width: 50%;
+  border: solid 2px;
+}
+
+.html-p {
+  color: rgb(14, 13, 13);
+  text-align: left;
+  margin: 10px;
+}
+.css-p {
+  color: rgb(14, 13, 13);
+  text-align: left;
+  margin: 10px;
+}
